@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyCareerHub/static/css/main.dd8d8e24.css",
-    "main.js": "/MyCareerHub/static/js/main.403a26c3.js",
+    "main.css": "/MyCareerHub/static/css/main.638ac5ee.css",
+    "main.js": "/MyCareerHub/static/js/main.ccb3137f.js",
     "static/js/453.8e605998.chunk.js": "/MyCareerHub/static/js/453.8e605998.chunk.js",
     "static/media/pm_resume.pdf": "/MyCareerHub/static/media/pm_resume.22321d909e5cb7c097dc.pdf",
     "static/media/ai_er_resume.pdf": "/MyCareerHub/static/media/ai_er_resume.e6f07fd7627975e5ce11.pdf",
@@ -23,12 +23,12 @@
     "static/media/fa-v4compatibility.ttf": "/MyCareerHub/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/MyCareerHub/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/MyCareerHub/index.html",
-    "main.dd8d8e24.css.map": "/MyCareerHub/static/css/main.dd8d8e24.css.map",
-    "main.403a26c3.js.map": "/MyCareerHub/static/js/main.403a26c3.js.map",
+    "main.638ac5ee.css.map": "/MyCareerHub/static/css/main.638ac5ee.css.map",
+    "main.ccb3137f.js.map": "/MyCareerHub/static/js/main.ccb3137f.js.map",
     "453.8e605998.chunk.js.map": "/MyCareerHub/static/js/453.8e605998.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd8d8e24.css",
-    "static/js/main.403a26c3.js"
+    "static/css/main.638ac5ee.css",
+    "static/js/main.ccb3137f.js"
   ]
 }
