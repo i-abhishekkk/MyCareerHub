@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MyCareerHub/static/css/main.062ff7c6.css",
-    "main.js": "/MyCareerHub/static/js/main.7218b411.js",
-    "static/js/453.8e605998.chunk.js": "/MyCareerHub/static/js/453.8e605998.chunk.js",
+    "main.css": "/MyCareerHub/static/css/main.00e795a0.css",
+    "main.js": "/MyCareerHub/static/js/main.ea44e9be.js",
+    "static/js/206.758d0aae.chunk.js": "/MyCareerHub/static/js/206.758d0aae.chunk.js",
     "static/media/pm_resume.pdf": "/MyCareerHub/static/media/pm_resume.22321d909e5cb7c097dc.pdf",
-    "static/media/profile.jpg": "/MyCareerHub/static/media/profile.801de046ed51d6b8a401.jpg",
+    "static/media/profile.png": "/MyCareerHub/static/media/profile.15123bfc06a72f37fc61.png",
     "static/media/fa-solid-900.ttf": "/MyCareerHub/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/ai_er_resume.pdf": "/MyCareerHub/static/media/ai_er_resume.65001f92997386b06617.pdf",
     "static/media/fa-brands-400.ttf": "/MyCareerHub/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -21,13 +21,10 @@
     "static/media/eight451.png": "/MyCareerHub/static/media/eight451.0bec11ab6a49f6a2817b.png",
     "static/media/fa-v4compatibility.ttf": "/MyCareerHub/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/MyCareerHub/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
-    "index.html": "/MyCareerHub/index.html",
-    "main.062ff7c6.css.map": "/MyCareerHub/static/css/main.062ff7c6.css.map",
-    "main.7218b411.js.map": "/MyCareerHub/static/js/main.7218b411.js.map",
-    "453.8e605998.chunk.js.map": "/MyCareerHub/static/js/453.8e605998.chunk.js.map"
+    "index.html": "/MyCareerHub/index.html"
   },
   "entrypoints": [
-    "static/css/main.062ff7c6.css",
-    "static/js/main.7218b411.js"
+    "static/css/main.00e795a0.css",
+    "static/js/main.ea44e9be.js"
   ]
 }
